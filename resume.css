@@ -1,0 +1,211 @@
+.box1{
+    height: 120px;
+    width: 1100px;
+    border: solid 1px black;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.inner1{
+    height: 120px;
+    width: 500px;
+    border: solid 0px black;
+    float: left;
+}
+.inner2{
+    height: 120px;
+    width: 400px;
+    border: solid 0px black;
+    float: right;
+}
+.head{
+    font-size: 30px;
+    color: rgb(78, 71, 71);
+    font-family: Century Schoolbook;
+    margin-left: 20px;
+}
+.u{
+    text-align: right;
+    font-size: 23px;
+    float: right;
+}
+.h{
+    float: right;
+    height: 30px;
+    width: 20px;
+    margin-left: 5px;
+    margin-top: 1px;
+}
+.mn{
+    color: rgb(70, 61, 61);
+}
+.m{
+    width: 310px;
+    background-color: gray;
+    height: 3px;
+    margin: -15px;
+    margin-left: 18px;
+}
+.ml{
+    font-size: 20px;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    float: left;
+}
+.k{
+    float: right;
+    color: grey;    
+    font-size: 20px;
+    margin-right: 30px;
+    
+
+}
+li{
+    margin: right;
+}
+
+.box2{
+    height: 1100px;
+    width: 1100px;
+    border: solid 1px black;
+    margin: auto;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+.box3{
+    height: 1050px;
+    width: 1100px;
+    border: solid 0px black;
+    margin: auto;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+.head1{
+    font-size: 28px;
+    color: rgb(59, 54, 54);
+    font-family: Century Schoolbook;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px   ;
+}
+.o{
+    width: 500px;
+    background-color: gray;
+    height: 2px;
+    margin: -15px;
+    margin-left: 320px;  
+    
+}
+.g{
+    width: 1050px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    
+}
+.left{
+    height: 850px;
+    width: 430px;
+    border-right: solid 3px gray;
+    margin-top: 50px;
+    float: left;
+    margin-left: 40px;
+}
+.right{
+    height: 800px;
+    width: 600px;
+    border: solid 0px gray;
+    margin-top: 50px;
+    float: left;
+    margin-left: 20px;
+}
+.d{
+    width: 190px;
+    background-color: gray;
+    height: 3px;
+    margin: -15px;
+    margin-left: 18px;
+}
+.head3{
+    font-size: 25px;
+    color: rgb(59, 54, 54);
+    font-family: Century Schoolbook;
+    margin-left: 20px;
+}
+.y{
+    font-size: 23px;
+    color: rgba(70, 65, 65, 0.795);
+    font-family: Bell MT bold;
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 440px;
+
+}
+.a{
+    color: grey;
+    margin-left: 20px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.l{
+    width: 250px;
+    background-color: rgb(69, 65, 65);
+    height: 1.5px;
+    margin: -15px;
+    margin-left: 18px;
+}
+.nb{
+    width: 300PX;
+    color: grey;
+    margin-left: 0px;
+    font-size: 18px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+.as{
+    width: 450px;
+    background-color: rgb(69, 65, 65);
+    height: 1.5px;
+    margin: -15px;
+    margin-left: 18px;
+}
+.y1{
+    font-size: 20px;
+    color: rgba(70, 65, 65, 0.795);
+    font-family: Bell MT bold;
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 250px;
+
+}
+.a1{
+    color: grey;
+    margin-left: 20px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    margin-top: -12px;
+}
+.nd{
+    width: 490px;
+    color: grey;
+    margin-left: 0px;
+    font-size: 18px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+.nl{
+    width: 520px;
+    color: grey;
+    margin-left: 0px;
+    font-size: 18px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+
+
+
+
